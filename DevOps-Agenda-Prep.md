@@ -43,7 +43,7 @@ Lecture Topics covered:
 - Addressing DevOps Myths:  Making Work Visible
 - Addressing DevOps Myths:  Work in Process
  
-Week-3 - June 28th
+## Week-3 - June 28th
 - Work is Work
 - Monitoring with a DevOps Mindset
 - Using Incident Reviews to Your Advantage
