@@ -40,7 +40,7 @@ Lecture Topics covered:
 - Actionable takeaway for the week:
   - Leadership philosophies are something we need to follow-up in week 5
   - They will review their outcomes for the next monthly report
-  - DevOps metrics are available? 
+  - DevOps metrics are available?
 
 ## Week-2 - June 21st
 
@@ -52,17 +52,13 @@ Lecture Topics covered:
 - Addressing DevOps Myths:  Making Work Visible
 - Addressing DevOps Myths:  Work in Process
 
-Lean Coffee Topics
-
-
-
-Continuous Integration and Continuous Deployment IRL
-
 1 hour class time (realistically 50 minutes):
 
-- 1/2 hour guided discussion
+- Review Outcomes Takeaway from Week 1
+- lean coffee topics (create online? allow them to put in topics as they they are listening to lectures
+- guided discussion
   - Focus Topic:  Unplanned work and how can you help teams say "no."
-- 1/2 hour lean coffee topics (create online? allow them to put in topics as they they are listening to lectures
+- Continuous Integration and Continuous Deployment IRL
 - Actionable takeaway for the week:
 
 ## Week-3 - June 28th
