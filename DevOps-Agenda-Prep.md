@@ -49,6 +49,12 @@ Lecture Topics covered:
 - Addressing DevOps Myths:  Making Work Visible
 - Addressing DevOps Myths:  Work in Process
 
+Lean Coffee Topics
+
+Focus Topic:  Unplanned work and how can you help teams say "no."
+
+Continuous Integration and Continuous Deployment IRL
+
 ## Week-3 - June 28th
 
 - Work is Work
