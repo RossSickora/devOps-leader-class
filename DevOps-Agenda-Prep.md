@@ -31,7 +31,9 @@ Lecture Topics covered:
      
 - 1/2 hour lean coffee topics (create online? allow them to put in topics as they they are listening to lectures? )
 - Actionable takeaway for the week: 
-
+	Leadership philosophies are something we need to follow-up in week 5
+	They will review their outcomes for the next monthly report
+	DevOps metrics are available? 
 
  
 ## Week-2 - June 21st
@@ -42,6 +44,14 @@ Lecture Topics covered:
 - Managing Workload with a DevOps Mindset
 - Addressing DevOps Myths:  Making Work Visible
 - Addressing DevOps Myths:  Work in Process
+
+1 hour class time (realistically 50 minutes): 
+- 1/2 hour guided discussion
+  · Focus discussion on:
+     · 
+     
+- 1/2 hour lean coffee topics (create online? allow them to put in topics as they they are listening to lectures? )
+- Actionable takeaway for the week: 
  
 ## Week-3 - June 28th
 - Work is Work
