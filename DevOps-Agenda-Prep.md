@@ -60,11 +60,29 @@ Lecture Topics covered:
   - Check out [__Measure What Matters__](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_2?gclid=Cj0KCQjwgLLoBRDyARIsACRAZe7ozZkgGvIATds1PF35NueuxhgjAqU55aEDMOuiBmIxWUt1QQl1iVgaAnuqEALw_wcB&hvadid=271051560653&hvdev=c&hvlocphy=9017958&hvnetw=g&hvpos=1t2&hvqmt=e&hvrand=533245104759462019&hvtargid=kwd-452949015343&hydadcr=22595_10356262&keywords=measure+what+matters+by+john+doerr&qid=1561126499&s=gateway&sr=8-2) by John Doer for some insights into OKR's and the value they can bring to making progress towards outcomes/objectives
   - A department would pick one thing per market segment to highlight in their monthy status report
 - lean coffee topics (create online? allow them to put in topics as they they are listening to lectures
+  - Team burnout, do we lose productivity because teams aren't afforded the freedom to "choose" their work with "legacy" pre-devOps systems, how do we overcome technical debt
+    - Writing features to resolve technical debt
+    - Teams operate as a business, selling their features
+    - What prevents your teams from addressing technical debt/bugs when they find them?
+    - How many of the "issues" or technical debt require business coordination, and if they don't require that coordination.
+    - Do your Product owners know their decision making boundaries?
+  - What does burnout look like in your organization?
+    - What is a holistic approach to burnout?
+    - Overcoming the behaviors of the past to enable teams to feel more in control of their own destiny
+  - Tracking unplanned work
+    - What is the real difference between planned and unplanned work?  Why does it matter to your teams?
+    - What are you doing to help your teams understand the considerations they should make about whether they should take on **ANY** work?
+  - Loosley coupled architecture
+    - Do teams need training?  Do they need an opportunity to teach themselves?  How do you make learning approachable?  
+    - Engineers identify problems and want to solve them, what is preventing your teams from identifying and solving the monolith problem?
+    - How do you make this happen?
+    - [How Netflix Works](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 - guided discussion
   - Focus Topic:  Unplanned work and how can you help teams say "no."
-- Continuous Integration and Continuous Deployment IRL
+  - Focus Topic:  Safety is a prerequisite for speed
+    - Where I have adapted the content for this discussion:  [Presenter Here](http://dsmagile.agileiowa.org/#tim-ottinger-session) [Slides Here](http://dsmagile.agileiowa.org/assets/presentations/2018/dsmAgile_Always_Be_Learning_And_Experimenting.pdf)
 - Actionable takeaway for the week:
-  - 
+  - How can you lead by example and demonstrate quality is more important than quantity?
 
 ## Week-3 - June 28th
 
@@ -73,8 +91,13 @@ Lecture Topics covered:
 - Using Incident Reviews to Your Advantage
 - Organizational Models in DevOps:  Functional Silo Structure
 - Organizational Models in DevOps:  Seven Characteristics
-- Organizational Models in DevOps:  Matrix, Full Stack, and Cross-Functional 
+- Organizational Models in DevOps:  Matrix, Full Stack, and Cross-Functional
 - Living in a Hybrid World
+
+- Week 2 Followup
+  - ITIL Discussion
+- Focused Discussion
+  - Continuous Integration and Continuous Deployment IRL
 
 ## Week-4 - July 3rd
 
