@@ -96,6 +96,7 @@ Lecture Topics covered:
 
 - Week 2 Followup
   - ITIL Discussion
+- Lean Coffee Topics (What did you take away from this weeks lectures?  What would you like to dive deeper into?)
 - Focused Discussion
   - Continuous Integration and Continuous Deployment IRL
 
