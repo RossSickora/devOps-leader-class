@@ -96,7 +96,31 @@ Lecture Topics covered:
 
 - Week 2 Followup
   - ITIL Discussion
+    - review next week after everyone has read
 - Lean Coffee Topics (What did you take away from this weeks lectures?  What would you like to dive deeper into?)
+  - Systems Resillient enough you can wait to fix them
+    - How do we support teams to build systems in this way?
+    - Do teams have the technical skills to build systems in this way?
+    - What does this look like?
+    - Does MVP mean a resillient system
+  - The health of the system no longer matters
+    - Mean time to restore, mean time to identify defects
+    - Do we have optics into the operational health of the systems?
+    - Do we leverage real time dashboards within teams to make system health visible?
+      - Can We?
+    - Some systems have leveraged real time dashboards for system health
+    - Is system health considered part of the team's definition of done?
+    - Who shares system health well?
+  - Incident Reviews - Leveraging Lean Process Techniques
+    - 5 why's
+    - Root Cause Analysis
+    - Fishbone
+    - When was the last time you attended an incident post mortem?
+    - When Incidents occur do we point fingers or support eachother?
+    - Make Incident post mortems public and visible
+    - What can leaders do to hold teams accountable without placing blame?
+    - Why are your teams responsive right now?  Is it out of a feeling of ownership, or a feeling of fear?
+    - Measuring the impact of the incident as a way to qualify the severity
 - Focused Discussion
   - Continuous Integration and Continuous Deployment IRL
 
@@ -109,6 +133,15 @@ Lecture Topics covered:
 - Value Stream Map – Reading & Exercise
 - Big Batch to Small Batch
 - Speed does not mean low quality
+
+- Week 3 Followup
+  - devOps Assesment
+  - Where are your groups in their devOps Journey?
+- Lean Coffee (What did you take away from this weeks lectures?  What would you like to dive deeper into?)
+- Focused Discussion
+  - What is important about devOps to you?
+  - Why is this concept important to each of us and the company?
+  - What do you hope to get from having a better understanding of what devOps can do?
 
 ## Week-5 July 12th
 
