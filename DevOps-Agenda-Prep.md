@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- Course starting on 6/14 is targeted at leaders of leaders
+- Course starting on 6/14 is targeted at leaders of leaders in a department
 
 ## Course Objective(s)
 
