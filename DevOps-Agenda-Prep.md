@@ -7,7 +7,7 @@
 ## Course Objective(s)
 
 - Educate attendees on DevOps principles and practices
-- Inspire and enable attendees to drive change
+- Inspire and enable attendees to drive adoption
 - Create and act on plans for improvement
 - **Each week give them something actionable they can take back to their leaders**
 
