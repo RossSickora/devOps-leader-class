@@ -8,7 +8,7 @@
 
 - Educate attendees on DevOps principles and practices
 - Inspire and enable attendees to drive change
-- Create and act on plans for improvement 
+- Create and act on plans for improvement
 - **Each week give them something actionable they can take back to their leaders**
 
 ## Course Requirements
