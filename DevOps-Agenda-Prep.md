@@ -187,8 +187,10 @@ Lecture Topics covered:
   - Review an actual value stream map, bring questions next week
 
 ## Week-5 July 12th
-- Deeper Dive topics: 
- -  Leadership philosophies are something we need to follow-up in week 5
+
+Deeper Dive topics:
+
+- Leadership philosophies are something we need to follow-up in week 5
   - Leadership Mirror
   - Small batches
 - Create action plans for improvement
