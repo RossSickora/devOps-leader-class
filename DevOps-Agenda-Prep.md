@@ -144,6 +144,9 @@ Lecture Topics covered:
   - What do you hope to get from having a better understanding of what devOps can do?
 
 ## Week-5 July 12th
-
+- Deeper Dive topics: 
+ -  Leadership philosophies are something we need to follow-up in week 5
+  - Leadership Mirror
+  - Small batches
 - Create action plans for improvement
 - Initiate action plans
