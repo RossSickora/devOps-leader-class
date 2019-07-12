@@ -136,14 +136,58 @@ Lecture Topics covered:
 
 - Week 3 Followup
   - devOps Assesment
+    - A place to start identifying how to improve
+    - How do we measure progress towards being 'devOps'
+    - How to better deploy resources to advance the various practices within a department
+    - Understand interpret and apply the 4 key devOps metrics
+    - What benefits are you hoping to gain from 'being devOps?'
   - Where are your groups in their devOps Journey?
 - Lean Coffee (What did you take away from this weeks lectures?  What would you like to dive deeper into?)
+  - Leadership Mirror - Dig Deeper into
+  - Product Mirror - maybe?
+  - Working in small batches
+    - We still think in a big batch mentality
+    - supporting an itterative mindset
+    - avoiding "project," and "scope," definitions
+    - how do you bring business partners along on small batch thinking?
+    - where are your business partners at?
+    - Talking in terms product
+    - It is "Minimum Viable Product," not "Minimum Viable Project."
+    - For whom are you optimizing your processes?
+    - There are people in your organizations who see the value they create as the big ideas they create and how well they define them.
+    - Transparency and Communication go hand in hand, those who care, need to consume the communication
+  - Operational work leads to death by 1000 paper cuts when teams don't define done by fixing those problems in "the right way."
+    - Teams tend to sub-optimize
+    - Why did you move something to production when you knew there was 'real' technical debt?
+    - How do technical teams articulate technical tasks in terms of how it will impact their organization?
+    - As a leader it's important to protect teams from the fire from above.
+    - Re-defining 'done' is extremely important
 - Focused Discussion
   - What is important about devOps to you?
+    - Shorter Delivery Cadence because it shows results and is more responsive to customers
+    - 5 key principles - how are we looking at continuous improvement as a culture in our areas?
+      - What value does Continuous improvement bring
+    - How can security come along with product teams, need to understand the whole concept
+    - Security groups can learn from a product delivery standpoint
+    - How are we preparing teams for change, and building an environment where change is expected?
+    - Understanding how to apply the devOps metrics with teams
+    - Understanding what a unified vision and purpose looks like
+    - Avoiding the idea the "yep we are devOps"
   - Why is this concept important to each of us and the company?
+    - It is how we help more people live their best life
+    - It is how we outperform the competition and do the most good.  
   - What do you hope to get from having a better understanding of what devOps can do?
+  - Consider this [tweet](https://twitter.com/kentbeck/status/1148263160006107136?s=12) from Kent Beck when you consider the "big changes," your organization needs
+- Better Faster, and Cheaper
+  - Better for the customer
+  - Faster to the customer
+  - Cheaper to the customer
+- Take-away
+  - What one small thing are you going to do to change the culture of your orgnization this week?
+  - Review an actual value stream map, bring questions next week
 
 ## Week-5 July 12th
 
 - Create action plans for improvement
 - Initiate action plans
+- Mobbing - Java, TDD, FizzBuzz
