@@ -196,3 +196,49 @@ Deeper Dive topics:
 - Create action plans for improvement
 - Initiate action plans
 - Mobbing - Java, TDD, FizzBuzz
+Notes DevOps - MT 7/26
+Friday, July 26, 2019
+9:10 AM
+Leadership Philosophies
+•	Honor and Extract reality
+o	Team members do not feel we understand their reality
+o	Can we get data on this?
+o	Build relationship with business partners, so it feels like a partnership so there is organizational accountability and responsibility
+•	Work to do with them to make sure they understand what it takes to make things happen
+o	Have people come to the realization that there will always be more work to do then we have time for? 
+•	Sometimes it's about telling them these dates can moved or we will accept the results of risk of missing the dates
+•	What if we did value stream mapping - would that help understand what is time bound
+•	VSM from concept to delivery
+o	AI Beth & Dylan- can we do some experimentation with some of these tools to see if we can learn something?  
+•	Comp - it all stems from an order of events - we have a good feel for the work that goes into this
+•	Something we can share back with the group
+•	Human error is not the root cause
+o	Will continuous feedback help with this? 
+o	Have we ever explicitly stated it?
+•	Maybe we need to state this with our business partner, we need to call each out on this? Transparency is helping
+o	Renee G. does a good job of this
+o	How many action items are really coming out of the lookbacks? 
+o	Blameless post mortem? 
+o	(Shared entire blog post in Teams)
+o	Laura shared Prime Directive from a blog on blameless post mortems: 
+o	Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+o	We will have to continuously work on this
+o	Assume good intent
+o	AI Steve and Craig- philosophies statement  and maybe later a blog post
+ 
+We have to challenge us on what's next? 
+Assessment that Scott and Craig are helping to figure out where to focus
+Vision for the future, where do we want to be a year from now? What do we need to focus on to get there
+Go back to our philosophy, based on that we should see or develop an outcome. 
+ 
+Things we are currently doing: 
+•	GCBI - is writing features for the devops work and have the PO's/PM know that work
+o	There are some things that are big enough you want to call and then there are things that will just be part of how we do our work now, depends on types of the work, shows intention so that's good 
+o	The first time you can do something more proactively take time to highlight that, and call out and be able to demonstrate that
+•	AI - Jay and Beth have been working with the group to do the devops core, the group is creating a  vision statement and have that group be a part of that
+o	How will we do the broader sharing? CSS wide meeting? Open space, awesome, the embed some team members at those tables. 
+•	Lori asked for $75k for consulting on DevOps across CSS 
+•	Share with people this is where leadership is headed - and this where you could improve
+•	AI Lori & Tony Could we do awards, more like a  grouping of awards? 
+•	AI Laura - hold MT accountable - if I see a topic like this bring it to them
+
