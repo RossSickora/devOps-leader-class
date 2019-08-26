@@ -46,12 +46,19 @@ Lecture Topics covered:
     - If we can describe the outcome simply does that make it more effective?
     - What does an outcome sound like to your group?
   - Value Stream Mapping
-    - 
-
+    - Is this the right tool to shift your view point about your products?
+    - What is the difference between Process Mapping and Value Stream Mapping?
+    - Value Stream Mapping can help identify the constraint in the system
+  - Generative Org Culture, Improving Org Culture
+    - Westrum Culture Model -> https://continuousdelivery.com/implementing/culture/ 
+    - How as an organization can you overcome a lack of trust?
+    - Date Driven culture -> How do we handle negotiating dates?
+    - What does a hard date look like in your environment?
+    - What are teams who deploy 20x a day deploying?
+    - What should you do when a customer says they want to use a specific technology?
+    - How do you uncover the truth within the stories you tell yourself?
 - Actionable takeaway for the week:
-  - Leadership philosophies are something we need to follow-up in week 5
-  - They will review their outcomes for the next monthly report
-  - DevOps metrics are available?
+  - Talk to one person about the cultural change your group needs to make
 
 ## Week-2 - June 21st
 
