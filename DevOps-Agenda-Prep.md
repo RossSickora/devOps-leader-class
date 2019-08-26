@@ -37,6 +37,17 @@ Lecture Topics covered:
   · Focus discussion on:
      · *metrics* which of these metrics do you think is most valuable? What actions would you take as a result of information gathered?
 - 1/2 hour lean coffee topics (create online? allow them to put in topics as they they are listening to lectures? )
+  - Outputs vs Outcomes
+    - Outcomes help reduce waste in the production of outputs
+    - Outcomes help identify "why" we are doing what we're doing
+    - What impact are we making
+    - Keeping outcomes visible, helps make them real
+    - Is the outcome always clear?
+    - If we can describe the outcome simply does that make it more effective?
+    - What does an outcome sound like to your group?
+  - Value Stream Mapping
+    - 
+
 - Actionable takeaway for the week:
   - Leadership philosophies are something we need to follow-up in week 5
   - They will review their outcomes for the next monthly report
