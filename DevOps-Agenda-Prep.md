@@ -73,7 +73,35 @@ Lecture Topics covered:
 1 hour class time (realistically 50 minutes):
 
 - Review Outcomes Takeaway from Week 1
+- Lean Coffee Topics
+  - Managing unplanned work
+    - How do we manage the various distractions of the day?
+    - How do we define unplanned work?
+    - If the team isn't bringing up the problems they face how can we better manage unplanned work?
+  - Bring experts together to form teams instead of being a jack of all trades
+    - What does it look like "bringing in experties?"
+    - What is a jack of all trades?
+    - How do you keep all of the trades sharp?
+  - 5 thieves of time
+    - too much WIP
+      - why do we have too much capacity at a given time, where we put more work in progress?
+      - We will be idle waiting on a dependency, and start something rather than finishing something.
+        - Why wouldn't you be working to overcome that dependency?  That sounds like a blocker...
+      - Context switching (multiple wip = context switching)
+    - conflicting priorities
+    - unplanned work
+    - neglected work
+    - unknown dependencies
+  - Using Data
+    - How do we use data effectively without feeling like a widget factory?
+    - Tracking data for a period of time, not necessarily forever is valuable
+  - Focus Topic - Safety as pre requisite 
+    - Where I have adapted the content for this discussion:  [Presenter Here](http://dsmagile.agileiowa.org/#tim-ottinger-session) [Slides Here](http://dsmagile.agileiowa.org/assets/presentations/2018/dsmAgile_Always_Be_Learning_And_Experimenting.pdf)
 - Actionable takeaway for the week:
+  - How can we adopt more devOps practices, one discssion with someone who did not attend the discussion
+  - track your time theives!  come next week with places you saw your time stolen
+  - Bring 1 thing you can do to bring more safety into the department
+  - Week 5 FOllowup -> Managing unplanned work
 
 ## Week-3 - June 28th
 
