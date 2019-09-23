@@ -115,7 +115,32 @@ Lecture Topics covered:
 
 - Week 2 Followup
 - Lean Coffee Topics (What did you take away from this weeks lectures?  What would you like to dive deeper into?)
+  - Human Error is never a root cause
+    - There is always something behind the human error
+    - Assuming positive intent is important
+    - What caused the person to make that decision?
+    - Do your organizational facilitators create individual blame in post mortems?
+    - What do we take away from errors?  
+  - Work is Work
+    - Removing the barriers between run and build teams, making the work the work
+    - does organizing teams by product accomplish the goal of making work visible?
+    - Does System ownership create better products?
+    - Do we really make our work transparent?
+    - Why is the work important?
+    - Are we transparent in what we are doing and why?
+  - Seven Principles of a DevOps organization
+    - How do you best facilitate remote conversations in large groups?
+    - How do you ensure your culture meets?
+    - What is the intent behind your meetings?
+    - Do you have a meeting focused culture?
+    - Is a meeting your primary communications medium?
+    - Are individuals in meetings to gather information, or share information?
+    - Does your cutlure create an environment where everyone feels safe to share their opinion on the topic at hand?
 - Focused Discussion
+  - Organizational structures
+    - Consider, what did Quality Assurance do in the past?
+    - Consider, what did busness analysts do in the past?
+    - Consider what role do those individuals play in building the highest quality products going forward?
 
 ## Week-4 - July 3rd
 
